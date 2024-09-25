@@ -2,8 +2,6 @@ package com.nt.service;
 
 import java.util.List;
 
-import org.springframework.data.domain.Sort;
-
 import com.nt.entity.Customer;
 
 public interface ICustomerMgmtService {
